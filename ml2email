@@ -19,7 +19,7 @@ from sklearn.svm import SVC
 from sklearn import metrics
 
 #%%
-df=pd.read_csv(r"C:\Users\Sayali\Desktop\BE_Practicals/emails.csv")
+df=pd.read_csv(r"emails.csv")
 
 #%%
 df.head()
